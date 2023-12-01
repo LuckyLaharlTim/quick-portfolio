@@ -10,14 +10,14 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 if (isAwesome){
   return true
 }
+
+print("Is Awesome!")
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
+```sql
+SELECT Name FROM Contacts WHERE Profession='Data Science'
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
