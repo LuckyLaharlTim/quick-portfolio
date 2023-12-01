@@ -21,7 +21,7 @@
 
 - [2023 - A Year of Minor Intensity Earthquakes](http://example.com/)
 - [74 Hectares of Green](http://example.com/)
-- [Active Github Users as of <Insert Time>](http://example.com/)
+- [Active Github Users as of...](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
